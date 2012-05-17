@@ -1,0 +1,14 @@
+The purpose of this prototype application is to demonstrate integration between Zend-Framework and the Twig.
+
+Zend Framework is by default shipped with the Zend_View, here I have tried to create my own Core View and Extend it 
+with the Abstract Zend View to inject Twig functionality into Zend Framework.
+This is very basic level integration. It can further be enhanced by creating nested Twig Templates.
+The Code is very well organised and clearly separates Business and Presentation Logic.
+If I have to write it again, I will try to make it more flexible in terms of setting different/suitable Twig Layouts.
+i.e. I may create base layout and extends it into several sub layouts, and explore the real power and flexibility of 
+Twig Template Engine.
+
+
+To see this application running, point your 
+
+
